@@ -1,0 +1,4 @@
+2
+CREATE TABLE airports (ID integer,TYPE varchar(50),NAME varchar(50),LATITUDE integer,LONGITUDE integer,COUNTRY varchar(50),REGION varchar(50))
+CREATE TABLE countries (ID integer,CODE varchar(50),NAME varchar(50),CONTINENT varchar(50))
+

@@ -1,0 +1,20 @@
+PAGE_SIZE 30
+NUM_PAGES 10
+PATH_FOR_DATA /home/dhruvil/Documents/DBS/JavaDBS/DataBaseImplementation
+BEGIN
+T1003
+a,integer
+name,varchar
+salary,float
+PRIMARY_KEY a
+END
+BEGIN
+T1002
+a,integer
+name,varchar
+salary,float
+PRIMARY_KEY a
+END
+
+
+

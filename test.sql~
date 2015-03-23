@@ -1,0 +1,9 @@
+select * from T1003 where a>=20 Or T1003.name="Kapil"
+select a from T1003 where a>=20 Or name="Kapil"
+select a from T1003 where a>=20 Or a<=20"
+select a from T1003 where a>=20 Or T1003.name like "Kapil"
+select a from T1003 where a>=20 Or name Like "Kapil"
+select a from T1003 where a>=12 And T1003.name="Kapil"
+select name,a from T1003 where a=12 
+select * from T1003 order by a
+select * from T1003 
